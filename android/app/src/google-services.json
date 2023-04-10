@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "781678909810",
+    "project_id": "cricketipl-7c6d7",
+    "storage_bucket": "cricketipl-7c6d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781678909810:android:b841d85ddacc00e8efe5eb",
+        "android_client_info": {
+          "package_name": "com.Xdev.ipl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "781678909810-t4mq84tlcpsiel12md3h2jvlvro4kk7q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrWKpdu7g96UHyBJ4ARfttBQJETIxcCVk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "781678909810-t4mq84tlcpsiel12md3h2jvlvro4kk7q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
